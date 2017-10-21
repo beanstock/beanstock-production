@@ -241,6 +241,10 @@ margin-left:12px;
   border-color: rgba(110, 191, 100, 0.5);
 }
 
+#tickets {
+      background-image: url(../img/BOTTOM_IMAGE.jpg);
+}
+
 div a .navbar-default .navbar-nav {
   background-color: #6ebf64;
 }
