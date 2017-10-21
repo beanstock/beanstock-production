@@ -172,7 +172,8 @@ transition:all .2s linear;
   -webkit-transition:all .2s linear;
 
 margin-top: 10px;
-background: rgba(110, 191, 100, 0.5);
+background-color:  #6ebf64;
+border-radius: 3px;
 }
 
 .left{
