@@ -96,6 +96,15 @@ padding-left: 15px;
 .topHalfOfContainer{
 
 }
+#maintitle {
+  letter-spacing: 10px;
+  font-size: 44px;
+}
+
+#subtitle {
+  letter-spacing: 3px;
+  font-size:36px;
+}
 .kerning{
   letter-spacing: 2px;
 }
@@ -193,7 +202,7 @@ margin-left:12px;
 }
 .tagline{
   padding:10px;
-  font-size: 28;
+  font-size: 42px;
   font-weight: bold;
   line-height: 85%;
 }
@@ -231,6 +240,10 @@ margin-left:12px;
 
 }
 
+.jnzn.intro-lead-in {
+   font-style: normal;
+}
+
 #copyright{
   background-color: #222;
   color: white;
@@ -247,4 +260,17 @@ margin-left:12px;
 
 div a .navbar-default .navbar-nav {
   background-color: #6ebf64;
+}
+
+.icon-background1 {
+    color: #ffc0ff;
+}
+
+.bg-green{
+
+  background-color: #6ebf64;
+}
+
+.img-org {
+  max-width: 230px;
 }
