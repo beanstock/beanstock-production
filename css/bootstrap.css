@@ -1341,10 +1341,10 @@ mark,
 .text-muted {
   color: #777;
 }
-.text-primary {
+.text-primary2 {
   color: #337ab7;
 }
-a.text-primary:hover {
+a.text-primary2:hover {
   color: #286090;
 }
 .text-success {

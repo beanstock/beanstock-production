@@ -49,10 +49,10 @@ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='img/boxcar_art_p
 	/*background: #f8f8f8;
 	color: #3D6392;*/
 
-  padding-top: 20px;
+  /*padding-top: 20px;
 padding-right: 15px;
 padding-bottom: 0px;
-padding-left: 15px;
+padding-left: 15px;*/
 }
 	#mailchimp input {
 		 border: medium none;
@@ -250,15 +250,16 @@ margin-left:12px;
 }
 
 #btn-jnzn {
-  background-color: rgba(110, 191, 100, 0.5);
-  border-color: rgba(110, 191, 100, 0.5);
+  background-color: rgba(110, 191, 100, .9);
+  border-color: rgba(110, 191, 100, .9);
+  margin: 10px;
 }
 
 #tickets {
       background-image: url(../img/BOTTOM_IMAGE.jpg);
 }
 
-div a .navbar-default .navbar-nav {
+div  .navbar-default .navbar-nav {
   background-color: #6ebf64;
 }
 
@@ -273,4 +274,12 @@ div a .navbar-default .navbar-nav {
 
 .img-org {
   max-width: 230px;
+}
+
+.text-primary2 {
+  color:  #6ebf64;
+}
+
+.padding-top{
+  padding-top: 40px;
 }
